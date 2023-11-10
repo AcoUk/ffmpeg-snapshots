@@ -6,7 +6,6 @@ Graphic tool i made to automate resizing single or multiple images, and creation
 Those like me incline to design their own themes will sure find it very handly 
 
 #
-<img src="assets/image_00.png" width="451" height="280">
 
 <img src="assets/image_0.png" width="368" height="120">
 
