@@ -1,6 +1,6 @@
 <img style="float: right; margin-left: 30px; margin-bottom: 20px;" width="256" height="256" src="assets/Utilities/logo.png" align="right">
 
-# Themes-Maker
+# Themes-IconMaker
 Graphic tool i made to automate resizing single or multiple images, and creation of IconSets for Clover or OpenCore BootLoaders
 
 Those like me incline to design their own themes will sure find it very handly 
