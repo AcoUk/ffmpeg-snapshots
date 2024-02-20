@@ -30,4 +30,4 @@ Those like me incline to design their own themes will sure find it very handly
 <img src="assets/image_5.png" width="320" height="143">
 
 #
-[Download](https://github.com/LAbyOneUk/Themes-IconMaker/releases)
+[Download](https://github.com/AcoUk/Themes-IconMaker/releases)
