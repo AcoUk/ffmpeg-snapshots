@@ -3,8 +3,4 @@
 # ffmpeg-snapshots
 
 #
-
-<img src="assets/image_0.png" width="368" height="120">
-
-#
 [Download](https://github.com/AcoUk/ffmpeg-snapshots/releases)
