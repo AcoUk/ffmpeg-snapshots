@@ -46,7 +46,7 @@ ffmpeg-36ec921-snapshot.tar.bz2 Maj 22
 
 - 8
 
-ffmpeg-f4b044b-snapshot.tar.bz2 Sep 08
+ffmpeg-f4b044b-snapshot.tar.bz2 Sep 06
 
 ffmpeg-a700f0f-snapshot.tar.bz2 Sep 02
 
