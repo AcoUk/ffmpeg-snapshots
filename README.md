@@ -46,6 +46,8 @@ ffmpeg-36ec921-snapshot.tar.bz2 Maj 22
 
 - 8
 
+ffmpeg-ced4a6e-snapshot.tar.bz2 Sep 22
+
 ffmpeg-9e3c07f-snapshot.tar.bz2 Sep 14
 
 ffmpeg-a4fd3f2-snapshot.tar.bz2 Sep 12
@@ -60,4 +62,3 @@ ffmpeg-10a061b-snapshot.tar.bz2 Aug 28
 
 ###
 
-[Download](https://github.com/AcoUk/ffmpeg-snapshots/releases)
