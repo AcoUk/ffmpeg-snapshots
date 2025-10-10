@@ -6,6 +6,12 @@
 #
 Version - 8
 
+ffmpeg-6f1ab82-snapshot.tar.bz2 Oct 10
+
+ffmpeg-c7815a4-snapshot.tar.bz2 Oct 07
+
+ffmpeg-6231fa7-snapshot.tar.bz2 Oct 06
+
 ffmpeg-1a02412-snapshot.tar.bz2 Oct 01
 
 ffmpeg-b80f28f-snapshot.tar.bz2 Sep 30
