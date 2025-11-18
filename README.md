@@ -6,6 +6,8 @@
 #
 Version - 8
 
+ffmpeg-1eb2cbd-snapshot.tar.bz2 --  Nov 18
+
 ffmpeg-be99d2c-snapshot.tar.bz2 --  Nov 10
 
 ffmpeg-8e90f15-snapshot.tar.bz2 --  Nov 02
