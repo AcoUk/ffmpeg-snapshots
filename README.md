@@ -6,6 +6,10 @@
 #
 Version - 8
 
+* [ ffmpeg-cdb14bc-snapshot.tar.bz2 -- Dec 09](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-cdb14bc-snapshot.tar.bz2)
+
+* [ ffmpeg-04eeaee-snapshot.tar.bz2 -- Nov 29](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-04eeaee-snapshot.tar.bz2)
+
 * [ ffmpeg-1eb2cbd-snapshot.tar.bz2 --  Nov 18](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-1eb2cbd-snapshot.tar.bz2)
 
 * [ ffmpeg-be99d2c-snapshot.tar.bz2 --  Nov 10](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-be99d2c-snapshot.tar.bz2)
