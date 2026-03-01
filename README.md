@@ -7,7 +7,13 @@
 Version - 8
 - ## 2026
 
-* [ ffmpeg-d9e8c85-snapshot.tar.bz2 -- Jan 26](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-d9e8c85-snapshot.tar.bz2)
+* [ ffmpeg-fba9fc0-snapshot.tar.bz2 -- Feb 23](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-fba9fc0-snapshot.tar.bz2)
+
+* [ ffmpeg-33b215d-snapshot.tar.bz2 -- Feb 15](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-33b215d-snapshot.tar.bz2)
+
+* [ ffmpeg-0fefecd-snapshot.tar.bz2 -- Feb 06](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-0fefecd-snapshot.tar.bz2)
+
+*  [ ffmpeg-d9e8c85-snapshot.tar.bz2 -- jan 27](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-d9e8c85-snapshot.tar.bz2)
 
 - ## 2025
 
