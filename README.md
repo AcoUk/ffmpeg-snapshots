@@ -7,6 +7,8 @@
 Version - 8
 - ## 2026
 
+* [ ffmpeg-6dd4469-snapshot.tar.bz2 -- Mar 07](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-6dd4469-snapshot.tar.bz2)
+
 * [ ffmpeg-561f37c-snapshot.tar.bz2 -- Mar 01](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-561f37c-snapshot.tar.bz2)
 
 * [ ffmpeg-fba9fc0-snapshot.tar.bz2 -- Feb 23](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-fba9fc0-snapshot.tar.bz2)
