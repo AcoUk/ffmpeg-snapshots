@@ -7,6 +7,8 @@
 Version - 8
 - ## 2026
 
+* [ffmpeg-660d6ec-snapshot.tar.bz2 -- Apr 13](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-660d6ec-snapshot.tar.bz2) 
+
 * [ffmpeg-cd1126a-snapshot.tar.bz2 -- Apr 07](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-cd1126a-snapshot.tar.bz2)
 
 * [ffmpeg-9c04a40-snapshot.tar.bz2 -- Mar 31](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-9c04a40-snapshot.tar.bz2)
