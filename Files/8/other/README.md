@@ -2,6 +2,8 @@
 
 * [ffmpeg-9e90fa5-snapshot.tar.bz2 -- Apr 27](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/other/ffmpeg-9e90fa5-snapshot.tar.bz2)
 
+* [ffmpeg-0c6b4ad-snapshot.tar.bz2 -- Apr 22](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/other/ffmpeg-0c6b4ad-snapshot.tar.bz2)
+
 * [ffmpeg-fcffc0e-snapshot.tar.bz2 -- Apr 17](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/other/ffmpeg-fcffc0e-snapshot.tar.bz2)
 
 * [ffmpeg-e43aab6-snapshot.tar.bz2 -- Apr 10](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/other/ffmpeg-e43aab6-snapshot.tar.bz2)
