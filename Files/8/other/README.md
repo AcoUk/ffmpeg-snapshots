@@ -1,5 +1,7 @@
 # other snapshots
 
+* [ffmpeg-4851060-snapshot.tar.bz2 -- Mai 12](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/other/ffmpeg-4851060-snapshot.tar.bz2)
+
 * [ffmpeg-f2e5eff-snapshot.tar.bz2 -- Mai 06](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/other/ffmpeg-f2e5eff-snapshot.tar.bz2)
 
 * [ffmpeg-1c522ff-snapshot.tar.bz2 -- Mai 04](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/other/ffmpeg-1c522ff-snapshot.tar.bz2)
