@@ -5,13 +5,12 @@
 ###
 #
 - ## 2026
-- ##### Version - 8.1.1
   
 * [ffmpeg-f435ce2-snapshot.tar.bz2 -- Mai 17](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-f435ce2-snapshot.tar.bz2)
 
 * [ffmpeg-0f2e693-snapshot.tar.bz2 -- Mai 07](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-0f2e693-snapshot.tar.bz2)
 
-- ##### Version - 8.1
+- ##### Version - 8.1.1 rel 04.05.2026
 
 * [ffmpeg-2e6af10-snapshot.tar.bz2 -- Apr 29](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-2e6af10-snapshot.tar.bz2)
 
@@ -24,6 +23,8 @@
 * [ffmpeg-9c04a40-snapshot.tar.bz2 -- Mar 31](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-9c04a40-snapshot.tar.bz2)
 
 * [ffmpeg-9d97771-snapshot.tar.bz2 -- Mar 21](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-9d97771-snapshot.tar.bz2)
+
+- ##### Version - 8.1 rel 16.03.2026
 
 * [ ffmpeg-b3996ee-snapshot.tar.bz2 -- Mar 13](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-b3996ee-snapshot.tar.bz2)
 
@@ -47,9 +48,9 @@
 
 * [ ffmpeg-cdb14bc-snapshot.tar.bz2 -- Dec 09](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-cdb14bc-snapshot.tar.bz2)
 
- - ##### Version - 8.0.1
-
 * [ ffmpeg-04eeaee-snapshot.tar.bz2 -- Nov 29](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-04eeaee-snapshot.tar.bz2)
+
+ - ##### Version - 8.0.1 rel 22.11.2025
 
 * [ ffmpeg-1eb2cbd-snapshot.tar.bz2 --  Nov 18](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-1eb2cbd-snapshot.tar.bz2)
 
@@ -88,6 +89,8 @@
 * [ ffmpeg-73d411c-snapshot.tar.bz2 --  Aug 30](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-73d411c-snapshot.tar.bz2)
 
 * [ ffmpeg-10a061b-snapshot.tar.bz2 --  Aug 28](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-10a061b-snapshot.tar.bz2)
+
+ - ##### Version - 8.0 rel 22.08.2025
 #
 
 - ##### Version - 7
