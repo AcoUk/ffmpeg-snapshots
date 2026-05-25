@@ -5,8 +5,8 @@
 ###
 #
 - ## 2026
-    
-* [ffmpeg-3baab60-snapshot.tar.bz2 -- Mai 24](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-3baab60-snapshot.tar.bz2)
+  
+* [ffmpeg-69bdb05-snapshot.tar.bz2 -- Mai 25](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-69bdb05-snapshot.tar.bz2)
 
 * [ffmpeg-f435ce2-snapshot.tar.bz2 -- Mai 17](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-f435ce2-snapshot.tar.bz2)
 
