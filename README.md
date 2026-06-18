@@ -6,6 +6,8 @@
 #
 - ## 2026
 
+* [ffmpeg-10e9f27-snapshot.tar.bz2 -- Jun 18](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-10e9f27-snapshot.tar.bz2)
+
 - ##### Version - 8.1.2 rel 17-06-2026
 
 * [ffmpeg-b817e19-snapshot.tar.bz2 -- Jun 12](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-b817e19-snapshot.tar.bz2)
