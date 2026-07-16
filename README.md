@@ -6,6 +6,8 @@
 #
 - ## 2026
 
+* [ffmpeg-ceabc9b-snapshot.tar.bz2 -- Jul 16](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-ceabc9b-snapshot.tar.bz2)
+
 * [ffmpeg-8ad6288-snapshot.tar.bz2 -- Jul 09](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-8ad6288-snapshot.tar.bz2)
 
 * [ffmpeg-e2e889d-snapshot.tar.bz2 -- Jul 01](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-e2e889d-snapshot.tar.bz2)
