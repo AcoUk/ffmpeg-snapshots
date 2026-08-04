@@ -1,5 +1,7 @@
 # other snapshots
 
+* [ffmpeg-d3ad8a7-snapshot.tar.bz2 -- Aug 03](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/other/ffmpeg-d3ad8a7-snapshot.tar.bz2)
+
 * [ffmpeg-c450bf8-snapshot.tar.bz2 -- Jul 22](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/other/ffmpeg-c450bf8-snapshot.tar.bz2)
 
 * [ffmpeg-c57660f-snapshot.tar.bz2 -- Jul 08](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/other/ffmpeg-c57660f-snapshot.tar.bz2)
