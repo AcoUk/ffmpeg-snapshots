@@ -6,6 +6,8 @@
 #
 - ## 2026
 
+- ##### Version - 9.0.0 rel 04-08-2026  ▲
+
 * [ffmpeg-a234fc1-snapshot.tar.bz2 -- Jul 30](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-a234fc1-snapshot.tar.bz2)
 
 * [ffmpeg-ceabc9b-snapshot.tar.bz2 -- Jul 16](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-ceabc9b-snapshot.tar.bz2)
@@ -16,7 +18,7 @@
 
 * [ffmpeg-10e9f27-snapshot.tar.bz2 -- Jun 18](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-10e9f27-snapshot.tar.bz2)
 
-- ##### Version - 8.1.2 rel 17-06-2026
+- ##### Version - 8.1.2 rel 17-06-2026  ▲
 
 * [ffmpeg-b817e19-snapshot.tar.bz2 -- Jun 12](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-b817e19-snapshot.tar.bz2)
 
@@ -28,7 +30,7 @@
 
 * [ffmpeg-0f2e693-snapshot.tar.bz2 -- Mai 07](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-0f2e693-snapshot.tar.bz2)
 
-- ##### Version - 8.1.1 rel 04.05.2026
+- ##### Version - 8.1.1 rel 04.05.2026  ▲
 
 * [ffmpeg-2e6af10-snapshot.tar.bz2 -- Apr 29](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-2e6af10-snapshot.tar.bz2)
 
@@ -42,7 +44,7 @@
 
 * [ffmpeg-9d97771-snapshot.tar.bz2 -- Mar 21](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-9d97771-snapshot.tar.bz2)
 
-- ##### Version - 8.1 rel 16.03.2026
+- ##### Version - 8.1 rel 16.03.2026  ▲
 
 * [ ffmpeg-b3996ee-snapshot.tar.bz2 -- Mar 13](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-b3996ee-snapshot.tar.bz2)
 
@@ -68,7 +70,7 @@
 
 * [ ffmpeg-04eeaee-snapshot.tar.bz2 -- Nov 29](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-04eeaee-snapshot.tar.bz2)
 
- - ##### Version - 8.0.1 rel 22.11.2025
+ - ##### Version - 8.0.1 rel 22.11.2025  ▲
 
 * [ ffmpeg-1eb2cbd-snapshot.tar.bz2 --  Nov 18](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-1eb2cbd-snapshot.tar.bz2)
 
@@ -108,7 +110,7 @@
 
 * [ ffmpeg-10a061b-snapshot.tar.bz2 --  Aug 28](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/ffmpeg-10a061b-snapshot.tar.bz2)
 
- - ##### Version - 8.0 rel 22.08.2025
+ - ##### Version - 8.0 rel 22.08.2025  ▲
 #
 
 - ##### Version - 7
