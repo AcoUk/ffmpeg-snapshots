@@ -6,6 +6,8 @@
 #
 - ## 2026
 
+* [ffmpeg-799cf2b-snapshot.tar.bz2 -- Aug 12](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/ffmpeg-799cf2b-snapshot.tar.bz2)
+
 - ##### Version - 9.0.1 rel 12-08-2026  ▲
 
 * [ffmpeg-e13b2e0-snapshot.tar.bz2 -- Aug 05](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/ffmpeg-e13b2e0-snapshot.tar.bz2)
