@@ -1,5 +1,7 @@
 # other snapshots
 
+* [ffmpeg-84779ad-snapshot.tar.bz2 -- Sep 28](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/other/ffmpeg-84779ad-snapshot.tar.bz2)
+
 * [ffmpeg-c966a1d-snapshot.tar.bz2 -- Sep 25](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/other/ffmpeg-c966a1d-snapshot.tar.bz2)
 
 - ##### Version - 9.0.2 ▲
