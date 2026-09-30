@@ -10,6 +10,8 @@
 
 * [ffmpeg-976cf5f-snapshot.tar.bz2 -- Sep 16](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/other/ffmpeg-976cf5f-snapshot.tar.bz2)
 
+* [ffmpeg-818e5d9-snapshot.tar.bz2 -- Sep 03](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/other/ffmpeg-818e5d9-snapshot.tar.bz2)
+
 * [ffmpeg-089a48e-snapshot.tar.bz2 -- Aug 31](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/other/ffmpeg-089a48e-snapshot.tar.bz2)
 
 * [ffmpeg-e1e3252-snapshot.tar.bz2 -- Aug 19](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/other/ffmpeg-e1e3252-snapshot.tar.bz2) 
