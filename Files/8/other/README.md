@@ -2,7 +2,7 @@
 
 * [ffmpeg-d3ad8a7-snapshot.tar.bz2 -- Aug 03](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/other/ffmpeg-d3ad8a7-snapshot.tar.bz2)
 
-* [ffmpeg-6095372-snapshot.tar.bz2 -- Jul 22](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/other/ffmpeg-c450bf8-snapshot.tar.bz2)
+* [ffmpeg-6095372-snapshot.tar.bz2 -- Jul 24](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/other/ffmpeg-6095372-snapshot.tar.bz2)
 
 * [ffmpeg-c450bf8-snapshot.tar.bz2 -- Jul 22](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/8/other/ffmpeg-c450bf8-snapshot.tar.bz2)
 
