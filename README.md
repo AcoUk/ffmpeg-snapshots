@@ -8,6 +8,8 @@
 #
 - ## 2026
 
+* [ffmpeg-e9dc8fd-snapshot.tar.bz2 -- Sep 30](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/ffmpeg-e9dc8fd-snapshot.tar.bz2)
+
 * [ffmpeg-7239dbb-snapshot.tar.bz2 -- Sep 22](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/ffmpeg-7239dbb-snapshot.tar.bz2)
 
 - ##### Version - 9.0.2 rel 18-09-2026  ▲
