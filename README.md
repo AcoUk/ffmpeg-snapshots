@@ -8,6 +8,8 @@
 #
 - ## 2026
 
+* [ffmpeg-fa4daf6-snapshot.tar.bz2 -- Oct 27](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/ffmpeg-fa4daf6-snapshot.tar.bz2)
+
 * [ffmpeg-94cba31-snapshot.tar.bz2 -- Oct 17](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/ffmpeg-94cba31-snapshot.tar.bz2)
 
 * [ffmpeg-e0e6ca1-snapshot.tar.bz2 -- Oct 08](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/ffmpeg-e0e6ca1-snapshot.tar.bz2)
