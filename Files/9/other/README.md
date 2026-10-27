@@ -1,5 +1,7 @@
 # other snapshots
 
+* [ffmpeg-86444dd-snapshot.tar.bz2 -- Oct 27](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/other/ffmpeg-86444dd-snapshot.tar.bz2)
+
 * [ffmpeg-2fd864c-snapshot.tar.bz2 -- Oct 16](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/other/ffmpeg-2fd864c-snapshot.tar.bz2)
 
 * [ffmpeg-1518146-snapshot.tar.bz2 -- Oct 06](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/other/ffmpeg-1518146-snapshot.tar.bz2)
