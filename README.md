@@ -8,6 +8,8 @@
 #
 - ## 2026
 
+* [ffmpeg-25bf077-snapshot.tar.bz2 -- Nov 27](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/ffmpeg-25bf077-snapshot.tar.bz2)
+
 - ##### Version - 9.1.0 rel 20-11-2026  ▲
 
 * [ffmpeg-2ec7bc9-snapshot.tar.bz2 -- Nov 04](https://raw.githubusercontent.com/AcoUk/ffmpeg-snapshots/main/Files/9/ffmpeg-2ec7bc9-snapshot.tar.bz2)
